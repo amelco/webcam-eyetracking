@@ -1,0 +1,7 @@
+**/*.png
+**/*.jpg
+**/*.gif
+*.gz
+*.xz
+*.dsc
+*.swp
